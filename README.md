@@ -158,4 +158,4 @@ Open your browser at `http://localhost:5173/` to experience **LostLink**.
 - **Cross-Agency Interoperability**: Standardized transit API exchange between Indian Railways (IRCTC), State Transport Corporations (KSRTC/MTC), and Metro rail systems.
 
 ---
-*Developed with ❤️ for College Hackathon 2026.*
+
